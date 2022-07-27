@@ -1,2 +1,2 @@
 # mtf
-Modern Text interface Format library - A library for progynosh to build fancy command line interface
+Modern Text-based user interface Format library - A library for building fancy TUI with progynosh and fish
